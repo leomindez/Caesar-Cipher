@@ -1,7 +1,7 @@
 
 # Caesar
 Project to create an implementation of caesar cipher algorithm using Elixir 
-**TODO: Add description**
+Project for [Elixir for Beginner] (https://www.udemy.com/elixir-for-beginners/learn/v4/overview)
 
 ## Installation
 
